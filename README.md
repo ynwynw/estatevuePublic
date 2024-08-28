@@ -13,7 +13,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Java+Springboot+Vue的物业管理系统(源代码+数据库+万字论文)141
+## 基于Java+Springboot+Vue的物业管理系统(源代码+数据库+万字论文+ppt)141
 
 ## 一、系统介绍
 本项目前后端分离，分为管理员、员工、用户三种角色(角色权限可自行分配)
